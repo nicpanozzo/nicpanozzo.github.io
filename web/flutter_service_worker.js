@@ -5,19 +5,20 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "5ac24a4a5e06236e52df20ed412f51a3",
 "/": "5ac24a4a5e06236e52df20ed412f51a3",
-"main.dart.js": "1031b814e328e1f417658136eea22a3f",
+"main.dart.js": "82e7390d6a9cb82f6c4693a4f4bd8539",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "ac0019beef8477cbf457a70d981f1622",
-"assets/AssetManifest.json": "c53554e838db677ecbfe24f885d27c82",
+"assets/AssetManifest.json": "7a438a7b2b2d96d1302f52f79020d3de",
 "assets/NOTICES": "04c602ffb43bda60e16cea4c5c13d812",
 "assets/FontManifest.json": "6f04550c9619a303be56f91fad80ace5",
 "assets/packages/flutter_neumorphic/fonts/NeumorphicIcons.ttf": "32be0c4c86773ba5c9f7791e69964585",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/assets/GitHub.png": "ef7a02b69836dc8b6a732a54c4200dcb",
-"assets/assets/GitHubWhite.png": "a6e9b85d6369757e60c00c9d6fb5e502"
+"assets/assets/GitHubWhite.png": "a6e9b85d6369757e60c00c9d6fb5e502",
+"assets/assets/myFace.jpg": "4f12dce85e0df914b20d488f97ebf030"
 };
 
 // The application shell files that are downloaded before a service worker can
