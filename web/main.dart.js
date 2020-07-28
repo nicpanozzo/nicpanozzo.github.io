@@ -12299,12 +12299,12 @@ Q4:function Q4(a){this.a=a},
 Q6:function Q6(a){this.a=a},
 Q3:function Q3(a){this.a=a},
 Dd:function Dd(){},
-fB:function(){var s=H.d([new O.dq(0,new P.q(4290164406),new P.n(30,30),60),new O.dq(0,new P.q(4294375158),new P.n(-30,-30),60)],t.ec),r=H.d([0,1],t.m),q=H.d([new P.q(4290888129),new P.q(4293256677)],t.d)
+fB:function(){var s=H.d([new O.dq(0,new P.q(4290164406),new P.n(15,15),30),new O.dq(0,new P.q(4294375158),new P.n(-15,-15),30)],t.ec),r=H.d([0,1],t.m),q=H.d([new P.q(4290888129),new P.q(4293256677)],t.d)
 return new S.cz(new P.q(4292269782),null,null,K.k9(new P.aO(91,91)),s,new T.eF(C.kC,C.kB,C.aU,q,r,null),C.K)},
 oG:function(){var s=null,r=H.d([0,1],t.m),q=H.d([new P.q(4290888129),new P.q(4293256677)],t.d)
 return new S.cz(new P.q(4292269782),s,s,K.k9(new P.aO(91,91)),s,new T.eF(C.kC,C.kB,C.aU,q,r,s),C.K)},
-Jn:function(){var s=H.d([new O.dq(0,new P.q(4287598479),new P.n(33,33),106),new O.dq(0,new P.q(4294967295),new P.n(-33,-33),106)],t.ec),r=H.d([0,1],t.m),q=H.d([new P.q(4293256677),new P.q(4290888129)],t.d)
-return new S.cz(new P.q(4292269782),null,null,K.k9(new P.aO(50,50)),s,new T.eF(C.kC,C.kB,C.aU,q,r,null),C.K)},
+Jn:function(){var s=H.d([new O.dq(0,new P.q(4287598479),new P.n(16.5,16.5),53),new O.dq(0,new P.q(4294967295),new P.n(-16.5,-16.5),53)],t.ec),r=H.d([0,1],t.m),q=H.d([new P.q(4293256677),new P.q(4290888129)],t.d)
+return new S.cz(new P.q(4292269782),null,null,K.k9(new P.aO(91,91)),s,new T.eF(C.kC,C.kB,C.aU,q,r,null),C.K)},
 DF:function(){var s=0,r=P.av(t.H),q,p,o,n,m,l
 var $async$DF=P.ap(function(a,b){if(a===1)return P.as(b,r)
 while(true)switch(s){case 0:s=2
@@ -40752,37 +40752,37 @@ O:function(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=P.ki(214,214,214,1),f=P.ki
 f=M.cI(C.r_,T.v1(L.WT("nicolapanozzo",K.WS(new K.hN(!0,P.ki(214,214,214,1),8),P.ki(214,214,214,1),2,C.d8),C.cQ,L.WV(100)),C.fE),f,h,h,h,h,h,h,h)
 s=i.d
 r=i.c
-s=s?F.C(r,!1).a.a/2/10:F.C(r,!1).a.a/2/10
-r=i.d?(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/2+F.C(i.c,!1).a.a/2/10/2:(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/3*2+F.C(i.c,!1).a.a/2/10
+s=s?F.C(r,!1).a.a/10:F.C(r,!1).a.a/10
+r=i.d?(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/2+F.C(i.c,!1).a.a/10/2:(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/3*2+F.C(i.c,!1).a.a/10
 q=i.d
 p=i.c
-q=q?F.C(p,!1).a.a/2/10:F.C(p,!1).a.a/2*4/7
+q=q?F.C(p,!1).a.a/10:F.C(p,!1).a.a*4/7
 p=i.d
 o=i.c
-p=p?F.C(o,!1).a.a/2/10:F.C(o,!1).a.a/2/10
+p=p?F.C(o,!1).a.a/10:F.C(o,!1).a.a/10
 o=P.ba(0,0,1)
 n=i.d
 m=n?F.oG():F.fB()
 s=G.mP(r,G.dJ(new T.fE(C.it,n?new K.pR("Bachelor in Computer Science\nApple Developer Academy 18/19 (Naples)\nWWDC 2019 Scholarship Winner\nHCID Student (Madrid - Helsinki)",h):K.k1(i.f,new K.Qd(i),X.We()),h),C.bl,m,o,h,h,h),P.ba(0,500,0),q,p,s)
-r=n?F.C(i.c,!1).a.a/2/10/2+(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/2:(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/3+F.C(i.c,!1).a.a/2/10
+r=n?F.C(i.c,!1).a.a/10/2+(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/2:(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/3+F.C(i.c,!1).a.a/10
 q=i.d
 p=i.c
-q=q?F.C(p,!1).a.a/2/10:F.C(p,!1).a.a/2/10
-p=i.d?F.C(a,!1).a.a/2+F.C(i.c,!1).a.a/2/10/2:F.C(i.c,!1).a.a/2*4/7
-o=i.d?F.C(i.c,!1).a.a/2/10:(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/3+F.C(i.c,!1).a.a/2/10
+q=q?F.C(p,!1).a.a/10:F.C(p,!1).a.a/10
+p=i.d?F.C(a,!1).a.a/2+F.C(i.c,!1).a.a/10/2:F.C(i.c,!1).a.a*4/7
+o=i.d?F.C(i.c,!1).a.a/10:(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/3+F.C(i.c,!1).a.a/10
 n=i.d?F.C(a,!1).a.b/2:F.C(a,!1).a.b/5
 m=P.ba(0,0,1)
 l=i.d
 k=l?F.oG():F.fB()
 r=G.mP(o,G.dJ(new T.fE(C.it,K.k1(i.f,new K.Qe(i),h),h),C.bl,k,m,h,n,h),P.ba(0,500,0),q,p,r)
-q=l?F.C(i.c,!1).a.a/2/10/2+(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/2:(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/3*2+F.C(i.c,!1).a.a/2/10
+q=l?F.C(i.c,!1).a.a/10/2+(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/2:(F.C(a,!1).a.b-F.C(i.c,!1).a.b/10*2)/3*2+F.C(i.c,!1).a.a/10
 p=i.d
 o=i.c
-p=p?F.C(o,!1).a.a/2/10:F.C(o,!1).a.a/2/10
-o=i.d?F.C(a,!1).a.a/2+F.C(i.c,!1).a.a/2/10/2:F.C(i.c,!1).a.a/2*4/7
+p=p?F.C(o,!1).a.a/10:F.C(o,!1).a.a/10
+o=i.d?F.C(a,!1).a.a/2+F.C(i.c,!1).a.a/10/2:F.C(i.c,!1).a.a*4/7
 n=i.d
 m=i.c
-n=n?F.C(m,!1).a.a/2/10:F.C(m,!1).a.a/2/10
+n=n?F.C(m,!1).a.a/10:F.C(m,!1).a.a/10
 m=i.d?F.C(a,!1).a.b/2:F.C(a,!1).a.b/5
 l=P.ba(0,0,1)
 k=i.d?F.oG():F.fB()
@@ -40800,7 +40800,7 @@ K.Qd.prototype={
 $2:function(a,b){var s=null,r=this.a.f,q=r.b
 r=r.a
 r=q.Y(0,r.gp(r))
-q=K.k9(new P.aO(50,50))
+q=K.k9(new P.aO(91,91))
 return T.Un(M.cI(s,N.kx(U.HQ("assets/GitHubWhite.png",s),s,s,new K.Qc(),s),s,s,new S.cz(C.k,s,s,q,s,s,C.K),s,s,s,s,s),r)},
 $C:"$2",
 $R:2}
@@ -40811,7 +40811,7 @@ K.Qe.prototype={
 $2:function(a,b){var s=null,r=this.a,q=r.f,p=q.b
 q=q.a
 q=p.Y(0,q.gp(q))
-if(r.d)r=new K.pR("Young, fresh, bugphobic \ndeveloper who is just trying \nto null point but the result.",s)
+if(r.d)r=new K.pR("Young, fresh, \nbugphobic developer \nwho is just trying \nto null point \nbut the result.\nNo matter what \napp end.",s)
 else{r=K.k9(new P.aO(91,91))
 r=M.cI(s,N.kx(U.HQ("assets/GitHubWhite.png",s),s,s,new K.Qb(),s),s,s,new S.cz(C.w8,s,s,r,s,s,C.K),s,s,s,s,s)}return T.Un(r,q)},
 $C:"$2",
